@@ -6,7 +6,7 @@ Created a class called Hangman(). Inside the class, an init method was created t
 
 attributes of the Hangman() class:
 
-word: The word to be guessed, picked randomly from the word_list. Remember to import the random module into your script.
+`word`: The word to be guessed, picked randomly from the word_list. Remember to import the random module into your script.
 
 word_guessed: list - A list of the letters of the word, with for each letter not yet guessed. For example, if the word is 'apple', the word_guessed list would be ['', '', '', '', '']. If the player guesses 'a', the list would be ['a', '', '', '', ''].
 
